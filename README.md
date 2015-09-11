@@ -1,6 +1,7 @@
 # huginn
 huginn(view)
-
+desctiprion:resource2 <->huginn 間でwebsocket を使用してリアルタイムに機器の状況をグラフに描画する。
+huginnを利用するためにはwatch対象のサーバにresource2をinstallしておくこと。
 
 ##How to use
 
