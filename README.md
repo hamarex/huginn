@@ -3,9 +3,10 @@ huginn(view)
 
 
 ##How to use
-1. http server　に設置
 
-2.huginn.html
+### 1. http server　に設置
+
+### 2.huginn.html
 
 ```
 <td>
@@ -24,12 +25,14 @@ campus(server,id,title,maxY);
 ```
 
 > var server= "192.168.x.xxx:3002";
+
 IPアドレスを指定
 
 > var maxY="16";
+
 CPUコア数を指定
 
-3. http://xxx.xxxx.xxx.xxx/huginn.html　でアクセス
+### 3. http://xxx.xxxx.xxx.xxx/huginn.html　でアクセス
 
 
 
